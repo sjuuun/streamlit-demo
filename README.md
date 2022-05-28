@@ -22,8 +22,14 @@ A faster way to build and share data apps.
 ### my_app
 
 - [Streamlit Main Concepts](https://docs.streamlit.io/library/get-started/main-concepts)
+```bash
+$ streamlit run my_app.py
+```
 
 ### Calculate Statistical Significance
 
 - A/B Test Calculator with Z-Test
 - [Example](https://abtestguide.com/calc/)
+```bash
+$ streamlit run calculate_statistical_significance.py
+```
