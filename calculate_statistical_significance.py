@@ -79,7 +79,7 @@ def z_test():
             st.metric(
                 label="Conversion",
                 value=f"{cvr_v:.2%}",
-                delta=f"{cvr_relative_change:.2f}"
+                delta=f"{cvr_relative_change:.2%}"
             )
         with col2:
             st.metric(
